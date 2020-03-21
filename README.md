@@ -8,7 +8,7 @@ Here I included competitive programming using python also.
 # Author
 Ajithlal K
 
-# Aknowledgments
+# Thanks
 
 https://ineuron.ai/
 
