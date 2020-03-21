@@ -7,15 +7,13 @@ Here I included competitive programming using python also.
 
 # Author
 Ajithlal K
+https://www.hackerearth.com/@lalajith1
 
 # Thanks
 
 https://ineuron.ai/
 
 https://www.youtube.com/user/Computerphile
-
-https://www.hackerearth.com/@lalajith1
-
 
 etc
 
