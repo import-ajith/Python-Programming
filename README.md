@@ -13,7 +13,9 @@ https://www.hackerearth.com/@lalajith1
 
 https://ineuron.ai/
 
-https://www.youtube.com/user/Computerphile
+Computerphile Youtube channel
+
+hackerearth
 
 etc
 
