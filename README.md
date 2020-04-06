@@ -1,7 +1,7 @@
 # python-programing
 
 This repo covers most of the section of python programming starting from basic .
-It included Pandas,Numpy,Matplot lib,seaborn,plotly and cuflinks.
+It included Pandas,Numpy,data visualization.
 Here I included competitive programming using python also.
 
 
